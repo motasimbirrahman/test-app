@@ -1,0 +1,46 @@
+.image-size{
+    margin: 10px;
+  }
+  
+  .image-size img{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    z-index: -1;
+    transform: inherit;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+  .remove-button {
+    position: relative;
+    margin-left: -10px;
+    margin-bottom: -20px;
+    z-index: 1;
+    opacity: 0.7;
+  }
+  
+  .remove-button:hover{
+    opacity: 1;
+    
+    
+  }
+input[type=file] { 
+    visibility: hidden;
+    position: absolute
+}
+
+.custom-submit-button{
+  padding: 8px 50px !important;
+  font-size: 20px;
+  border-radius: 25px !important  ;
+  -webkit-border-radius: 25px !important  ;
+  -moz-border-radius: 25px !important  ;
+  -ms-border-radius: 25px !important  ;
+  -o-border-radius: 25px !important  ;
+}
+
+.upload-image{
+  margin: 8%;
+}

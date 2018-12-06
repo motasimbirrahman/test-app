@@ -1,0 +1,31 @@
+.login-form{
+    background: #F0F0F0;
+    border-radius: 20px;
+    margin: 10px auto 30px;
+    max-width: 60%;
+    padding: 50px 70px 70px 71px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.forgot-password{
+    margin-bottom:30px
+}
+
+.login-input{
+    border-radius: 17px !important;
+    -webkit-border-radius: 17px !important;
+    -moz-border-radius: 17px !important;
+    -ms-border-radius: 17px !important;
+    -o-border-radius: 17px !important;
+}
+.login-button{
+    padding: 8px 45px !important;
+    font-size: 19px !important;
+    border-radius: 25px !important;
+    -webkit-border-radius: 25px !important;
+    -moz-border-radius: 25px !important;
+    -ms-border-radius: 25px !important;
+    -o-border-radius: 25px !important;
+}

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: AvenirFont;
+  src: url("Static/fonts/Avenir.ttc");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "AvenirFont", Fallback, sans-serif;
+  background: #f0f0f0;
+}
